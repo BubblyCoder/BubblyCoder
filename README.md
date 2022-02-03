@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BubblyCoder
+- 👋 Hi, I’m Alvin aka @BubblyCoder
 - 👀 I’m interested in Python, Big Data , SQL and most importantly to be a better Data Analyst
 - 🌱 I’m currently learning SQL and building better Tableaus Dashboards !
 
